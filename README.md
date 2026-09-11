@@ -1,5 +1,7 @@
 # canary-health
 
+[![DOI](https://zenodo.org/badge/1365170301.svg)](https://doi.org/10.5281/zenodo.22699780)
+
 A reference implementation of a dynamic, multi-metric health model and
 automated-rollback controller for progressive delivery in Kubernetes,
 implementing the `H(t)` health index and state machine described in
@@ -150,19 +152,10 @@ tuned per-service in practice.
 
 Apache License 2.0. See [LICENSE](LICENSE).
 
-# canary-health
-
-[![DOI](https://zenodo.org/badge/1365170301.svg)](https://doi.org/10.5281/zenodo.22699780)
-
-A reference implementation of a dynamic, multi-metric health model and
-automated-rollback controller for progressive delivery in Kubernetes,
-...
-
 ## Citation
 
 If you use this software, please cite:
 
 Potluri, M. (2026). *AI-Driven Canary Deployments and Automated
 Rollbacks in Kubernetes Environments.*
-
 
